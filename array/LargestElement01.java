@@ -10,3 +10,4 @@ max=a[i];
 System.out.println(max);
 }
 }
+ 
